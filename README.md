@@ -1,5 +1,5 @@
 ## Hola! 👋 Soy Camila
-<h3 align="center">Soy estudiante de Licenciatura en Sistemas. Me apasiona la programacion, y siempre estoy dispuesta a explorar y aprender nuevas tecnologias</h3>
+<h3 align="center">Estudiante de Licenciatura en Sistemas.</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,c,cs,mysql,mongodb,php,html,css,net,docker" />
