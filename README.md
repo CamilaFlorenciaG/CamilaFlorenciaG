@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola! 👋 Soy Camila
+<h3 align="center">Soy estudiante de Licenciatura en Sistemas. Me apasiona la programacion, y siempre estoy dispuesta a explorar y aprender nuevas tecnologias</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cs,mysql,mongodb,php,html,css,net,docker" />
+ </a>
+</p>
 
 <!--
 **CamilaFlorenciaG/CamilaFlorenciaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
